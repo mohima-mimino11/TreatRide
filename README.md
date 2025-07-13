@@ -215,7 +215,7 @@ treatride-fullstack/
 - Develop driver and restaurant portals for enhanced functionality.
 - Support advanced search, filters, and multi-language options.
 
-## Contributing
+<!-- ## Contributing
 Contributions are welcome! Please:
 1. Fork the repository.
 2. Create a feature branch (`git checkout -b feature/YourFeature`).
@@ -227,4 +227,4 @@ Contributions are welcome! Please:
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or feedback, reach out via [GitHub Issues](https://github.com/mohima-mimino11/treatride-fullstack/issues).
+For questions or feedback, reach out via [GitHub Issues](https://github.com/mohima-mimino11/treatride-fullstack/issues). -->
